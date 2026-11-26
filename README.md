@@ -265,7 +265,7 @@ above. No bulk data or extraction scripts are published with this report.
 - `HKeL_Verified_Errata_16_Final_2026-11-26.csv` — the submitted data file:
   16 items with bilingual excerpts, suggested corrections, issue descriptions
   and XML `Temporal_ID` locations (UTF-8 with BOM, CRLF line endings).
-- `submission/` — the submission letter exactly as sent (HTML).
+- `submission/` — the submission letter as sent (HTML), archived with the sender's personal email redacted and the pre-send addressing note removed; the message text is otherwise unchanged.
 - `evidence/` — one image per item, rendered verbatim from the snapshot XML
   with the defect highlighted in red (the correct counterpart form, where it
   proves the error, is highlighted in green). The rendering script is not
