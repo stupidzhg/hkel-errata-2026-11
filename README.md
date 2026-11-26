@@ -1,5 +1,7 @@
 # Hong Kong e-Legislation (HKeL) errata: 15 verified textual errata, plus one drafting inconsistency
 
+> **中文版：** [README.zh-CN.md](README.zh-CN.md)
+
 > **Status — 26 November 2026.** Submitted to the Hong Kong Department of Justice
 > (`elegislation-enq@doj.gov.hk`, cc `dojinfo@doj.gov.hk`) on 26 November 2026.
 > Receipt was acknowledged by automated reply the same day. Awaiting a substantive
