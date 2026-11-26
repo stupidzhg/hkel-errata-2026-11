@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="620" viewBox="0 0 1160 620" font-family="'Noto Sans CJK HK','Noto Sans CJK TC','Noto Sans CJK SC',sans-serif">
+<rect width="1160" height="620" fill="white"/>
+<text x="56" y="84" font-size="32" font-weight="bold" fill="#1a1a1a">P2-12 · Cap. 4A, Order 117A, r. 23 (heading)</text>
+<text x="56" y="121" font-size="19" fill="#555555">Unbalanced parenthesis (EN) · EN · Temporal_ID: s117A_s23</text>
+<line x1="56" y1="134" x2="1104" y2="134" stroke="#bbbbbb" stroke-width="2"/>
+<text x="56" y="178" font-size="20" font-weight="bold" fill="#555555">Current text</text>
+<text x="56.0" y="210" font-size="23" fill="#1a1a1a">Application to Court to revoke order made under section 5(2) or notice given under section </text>
+<rect x="1027.5" y="192" width="76.9" height="28" fill="#fbe9e7"/>
+<text x="1028.5" y="210" font-size="23" fill="#b22222" font-weight="bold">6(1 (O.</text>
+<text x="56.0" y="246" font-size="23" fill="#1a1a1a">117A, r. 23)</text>
+<text x="56" y="306" font-size="20" font-weight="bold" fill="#555555">Counterpart — Traditional Chinese</text>
+<text x="56.0" y="338" font-size="23" fill="#1a1a1a">向法院申請撤銷根據第5(2)條作出的命令或根據第6(1)條發出的通知 (第117A號命令第23條規則)</text>
+<text x="56" y="398" font-size="20" font-weight="bold" fill="#555555">Suggested correction</text>
+<text x="56.0" y="430" font-size="23" fill="#14532d">“Application to Court to revoke order made under section 5(2) or notice given under section 6(1)</text>
+<text x="56.0" y="466" font-size="23" fill="#14532d">(O. 117A, r. 23)” — insert the missing “)” after “6(1)”.</text>
+<line x1="56" y1="504" x2="1104" y2="504" stroke="#bbbbbb" stroke-width="1"/>
+<text x="56" y="530" font-size="16" fill="#777777">Source: DATA.GOV.HK dataset hk-doj-hkel-legislation-current (last modified 24 Nov 2026),</text>
+<text x="56" y="554" font-size="16" fill="#777777">downloaded 25 Nov 2026. Rendered verbatim from the official XML (Temporal_ID s117A_s23).</text>
+<text x="56" y="578" font-size="16" fill="#777777">HKeL is updated continuously; the live text may since have changed.</text>
+</svg>

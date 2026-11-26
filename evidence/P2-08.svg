@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="620" viewBox="0 0 1160 620" font-family="'Noto Sans CJK HK','Noto Sans CJK TC','Noto Sans CJK SC',sans-serif">
+<rect width="1160" height="620" fill="white"/>
+<text x="56" y="84" font-size="32" font-weight="bold" fill="#1a1a1a">P2-08 · Cap. 155S, s. 84(1)</text>
+<text x="56" y="121" font-size="19" fill="#555555">Unbalanced parenthesis (TC) · TC · Temporal_ID: s84_1</text>
+<line x1="56" y1="134" x2="1104" y2="134" stroke="#bbbbbb" stroke-width="2"/>
+<text x="56" y="178" font-size="20" font-weight="bold" fill="#555555">Current text</text>
+<text x="56.0" y="210" font-size="23" fill="#1a1a1a">認可證券市場 (recognized stock market)指《證券及期貨條例》</text>
+<rect x="707.7" y="192" width="120.4" height="28" fill="#fbe9e7"/>
+<text x="708.7" y="210" font-size="23" fill="#b22222" font-weight="bold">(第571章》</text>
+<text x="56.0" y="246" font-size="23" fill="#1a1a1a">附表1第1部第1條所界定的證券市場；</text>
+<text x="56" y="306" font-size="20" font-weight="bold" fill="#555555">Counterpart — English</text>
+<text x="56.0" y="338" font-size="23" fill="#1a1a1a">recognized stock market (認可證券市場) means a stock market as defined by section 1 of Part 1 of</text>
+<text x="56.0" y="374" font-size="23" fill="#1a1a1a">Schedule 1 to the Securities and Futures Ordinance (Cap. 571).</text>
+<text x="56" y="434" font-size="20" font-weight="bold" fill="#555555">Suggested correction</text>
+<text x="56.0" y="466" font-size="23" fill="#14532d">“《證券及期貨條例》(第571章)附表1第1部第1條所界定的證券市場；” — replace “》” with “)”.</text>
+<line x1="56" y1="504" x2="1104" y2="504" stroke="#bbbbbb" stroke-width="1"/>
+<text x="56" y="530" font-size="16" fill="#777777">Source: DATA.GOV.HK dataset hk-doj-hkel-legislation-current (last modified 24 Nov 2026),</text>
+<text x="56" y="554" font-size="16" fill="#777777">downloaded 25 Nov 2026. Rendered verbatim from the official XML (Temporal_ID s84_1). HKeL is</text>
+<text x="56" y="578" font-size="16" fill="#777777">updated continuously; the live text may since have changed.</text>
+</svg>

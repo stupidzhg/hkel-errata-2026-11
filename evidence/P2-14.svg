@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="728" viewBox="0 0 1160 728" font-family="'Noto Sans CJK HK','Noto Sans CJK TC','Noto Sans CJK SC',sans-serif">
+<rect width="1160" height="728" fill="white"/>
+<text x="56" y="84" font-size="32" font-weight="bold" fill="#1a1a1a">P2-14 · Cap. 374, s. 131(1)(m)</text>
+<text x="56" y="121" font-size="19" fill="#555555">Unbalanced parenthesis (EN) · EN · Temporal_ID: s131_1_m</text>
+<line x1="56" y1="134" x2="1104" y2="134" stroke="#bbbbbb" stroke-width="2"/>
+<text x="56" y="178" font-size="20" font-weight="bold" fill="#555555">Current text</text>
+<text x="56.0" y="210" font-size="23" fill="#1a1a1a">(m) exempting persons or vehicles, or any type or class or description of vehicle from the</text>
+<text x="56.0" y="246" font-size="23" fill="#1a1a1a">operation of any regulation (including any condition imposed by such regulation) whether by</text>
+<text x="56.0" y="282" font-size="23" fill="#1a1a1a">permit or otherwise and, in the case of the issue of a permit, the </text>
+<rect x="740.0" y="264" width="124.9" height="28" fill="#fbe9e7"/>
+<text x="741.0" y="282" font-size="23" fill="#b22222" font-weight="bold">fees if any)</text>
+<text x="863.9" y="282" font-size="23" fill="#1a1a1a"> payable for such</text>
+<text x="56.0" y="318" font-size="23" fill="#1a1a1a">issue; and</text>
+<text x="56" y="378" font-size="20" font-weight="bold" fill="#555555">Counterpart — Traditional Chinese</text>
+<text x="56.0" y="410" font-size="23" fill="#1a1a1a">(m)不論以許可證或其他方式，豁免任何人或車輛、或任何類型、種類或類別車輛，</text>
+<text x="56.0" y="446" font-size="23" fill="#1a1a1a">使其免受制於任何規例(包括藉該規例所施加的條件)；及如屬發出許可證，</text>
+<text x="56.0" y="482" font-size="23" fill="#1a1a1a">豁免發證須繳付的費用(如有費用)；及</text>
+<text x="56" y="542" font-size="20" font-weight="bold" fill="#555555">Suggested correction</text>
+<text x="56.0" y="574" font-size="23" fill="#14532d">“…the fees (if any) payable for such issue; …” — insert the missing opening “(” before “if”.</text>
+<line x1="56" y1="612" x2="1104" y2="612" stroke="#bbbbbb" stroke-width="1"/>
+<text x="56" y="638" font-size="16" fill="#777777">Source: DATA.GOV.HK dataset hk-doj-hkel-legislation-current (last modified 24 Nov 2026),</text>
+<text x="56" y="662" font-size="16" fill="#777777">downloaded 25 Nov 2026. Rendered verbatim from the official XML (Temporal_ID s131_1_m).</text>
+<text x="56" y="686" font-size="16" fill="#777777">HKeL is updated continuously; the live text may since have changed.</text>
+</svg>

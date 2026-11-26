@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="584" viewBox="0 0 1160 584" font-family="'Noto Sans CJK HK','Noto Sans CJK TC','Noto Sans CJK SC',sans-serif">
+<rect width="1160" height="584" fill="white"/>
+<text x="56" y="84" font-size="32" font-weight="bold" fill="#1a1a1a">S-01 · Cap. 571, Sch. 10, Pt. 1, s. 82(b)</text>
+<text x="56" y="121" font-size="19" fill="#555555">Bilingual drafting inconsistency in the Ordinance as enacted (TC) · TC · Temporal_ID: sch10_P1_s82_b</text>
+<line x1="56" y1="134" x2="1104" y2="134" stroke="#bbbbbb" stroke-width="2"/>
+<text x="56" y="178" font-size="20" font-weight="bold" fill="#555555">Current text</text>
+<text x="56.0" y="210" font-size="23" fill="#1a1a1a">(b)</text>
+<rect x="84.8" y="192" width="56.0" height="28" fill="#fbe9e7"/>
+<text x="85.8" y="210" font-size="23" fill="#b22222" font-weight="bold">(a)款</text>
+<text x="139.8" y="210" font-size="23" fill="#1a1a1a">提述的責任已按照本條例履行。</text>
+<text x="56" y="270" font-size="20" font-weight="bold" fill="#555555">Counterpart — English</text>
+<text x="56.0" y="302" font-size="23" fill="#1a1a1a">(b) the duty referred to in paragraph (a) has been performed in accordance with this Ordinance.</text>
+<text x="56" y="362" font-size="20" font-weight="bold" fill="#555555">Suggested correction</text>
+<text x="56.0" y="394" font-size="23" fill="#14532d">For legislative amendment (not editorial correction of HKeL): “(b)(a)</text>
+<text x="56.0" y="430" font-size="23" fill="#14532d">段提述的責任已按照本條例履行。” — replace “款” with “段”.</text>
+<line x1="56" y1="468" x2="1104" y2="468" stroke="#bbbbbb" stroke-width="1"/>
+<text x="56" y="494" font-size="16" fill="#777777">Source: DATA.GOV.HK dataset hk-doj-hkel-legislation-current (last modified 24 Nov 2026),</text>
+<text x="56" y="518" font-size="16" fill="#777777">downloaded 25 Nov 2026. Rendered verbatim from the official XML (Temporal_ID</text>
+<text x="56" y="542" font-size="16" fill="#777777">sch10_P1_s82_b). HKeL is updated continuously; the live text may since have changed.</text>
+</svg>

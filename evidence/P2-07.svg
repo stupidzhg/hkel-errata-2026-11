@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="788" viewBox="0 0 1160 788" font-family="'Noto Sans CJK HK','Noto Sans CJK TC','Noto Sans CJK SC',sans-serif">
+<rect width="1160" height="788" fill="white"/>
+<text x="56" y="84" font-size="32" font-weight="bold" fill="#1a1a1a">P2-07 · Cap. 112, s. 17A(1)</text>
+<text x="56" y="121" font-size="19" fill="#555555">Unbalanced parenthesis (EN) · EN · Temporal_ID: s17A_1</text>
+<line x1="56" y1="134" x2="1104" y2="134" stroke="#bbbbbb" stroke-width="2"/>
+<text x="56" y="178" font-size="20" font-weight="bold" fill="#555555">Current text</text>
+<text x="56.0" y="210" font-size="23" fill="#1a1a1a">Common Equity Tier 1 capital instrument </text>
+<rect x="501.3" y="192" width="19.4" height="28" fill="#fbe9e7"/>
+<text x="502.3" y="210" font-size="23" fill="#b22222" font-weight="bold">((</text>
+<text x="519.6" y="210" font-size="23" fill="#1a1a1a">普通股權一級資本票據) means a capital instrument</text>
+<text x="56.0" y="246" font-size="23" fill="#1a1a1a">that qualifies as Common Equity Tier 1 capital under Schedule 4A to the Banking (Capital) Rules</text>
+<text x="56.0" y="282" font-size="23" fill="#1a1a1a">(Cap. 155 sub. leg. L), or under the equivalent laws or regulatory requirements of another</text>
+<text x="56.0" y="318" font-size="23" fill="#1a1a1a">member jurisdiction of the Basel Committee;</text>
+<text x="56" y="378" font-size="20" font-weight="bold" fill="#555555">Counterpart — Traditional Chinese</text>
+<text x="56.0" y="410" font-size="23" fill="#1a1a1a">普通股權一級資本票據 (Common Equity Tier 1 capital instrument)指根據《銀行業(資本)規則》</text>
+<text x="56.0" y="446" font-size="23" fill="#1a1a1a">(第155章，附屬法例L)附表4A，或根據巴塞爾委員會另一成員司法管轄區的對應法律或監管規定，</text>
+<text x="56.0" y="482" font-size="23" fill="#1a1a1a">合資格成為普通股權一級資本的資本票據；</text>
+<text x="56" y="542" font-size="20" font-weight="bold" fill="#555555">Suggested correction</text>
+<text x="56.0" y="574" font-size="23" fill="#14532d">“Common Equity Tier 1 capital instrument (普通股權一級資本票據) means …” — delete the extra</text>
+<text x="56.0" y="610" font-size="23" fill="#14532d">“(”.</text>
+<line x1="56" y1="648" x2="1104" y2="648" stroke="#bbbbbb" stroke-width="1"/>
+<text x="56" y="674" font-size="16" fill="#777777">Source: DATA.GOV.HK dataset hk-doj-hkel-legislation-current (last modified 24 Nov 2026),</text>
+<text x="56" y="698" font-size="16" fill="#777777">downloaded 25 Nov 2026. Rendered verbatim from the official XML (Temporal_ID s17A_1). HKeL</text>
+<text x="56" y="722" font-size="16" fill="#777777">is updated continuously; the live text may since have changed. Also confirmed on live HKeL</text>
+<text x="56" y="746" font-size="16" fill="#777777">(checked 26 Nov 2026; Cap. 112 Point in Time 13/11/2026).</text>
+</svg>

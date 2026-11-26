@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Public Feedback: 15 Verified Textual and Bilingual Errata in HKeL, plus One Drafting Inconsistency</title>
+</head>
+<body style="font-family: Georgia, 'Times New Roman', serif; font-size: 15px; line-height: 1.55; color: #111111; max-width: 760px; margin: 0 auto; padding: 8px 4px;">
+<div style="background: #f2f2f2; border: 1px solid #999999; padding: 10px 12px; margin-bottom: 6px;">
+<p style="margin: 0 0 6px 0; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #555555;">EMAIL HEADERS &mdash; for addressing only; do not paste into the message body</p>
+<p style="margin: 0;"><strong>To:</strong> elegislation-enq@doj.gov.hk<br>
+<strong>Cc:</strong> dojinfo@doj.gov.hk<br>
+<strong>Subject:</strong> Public Feedback: 15 Verified Textual and Bilingual Errata in HKeL / DATA.GOV.HK Dataset, plus One Drafting Inconsistency in the Ordinance as Enacted</p>
+</div>
+<!-- Copy below into email body -->
+<p>Dear Sir or Madam,</p>
+<p>I am writing as a member of the public to share 15 clearly verified textual, numbering, and bilingual errata identified during an independent check of the Hong Kong e-Legislation (HKeL) dataset published on DATA.GOV.HK, plus one separate bilingual drafting inconsistency in the Ordinance as enacted. I offer these findings as constructive feedback for your verification, and I am grateful for your team's work in maintaining this resource.</p>
+<p>To keep this message concise and easy to verify, I have limited this submission strictly to 15 clear-cut HKeL items, plus one separate item (covering 17 occurrences in total — Cap. 132AK, s. 3 contains the same numbering error in both s. 3(1) and s. 3(3); full excerpts and exact locations are in the attached CSV).</p>
+<p><strong>Snapshot examined.</strong> DATA.GOV.HK dataset <code>hk-doj-hkel-legislation-current</code> (last modified 24 November 2026), downloaded on 25 November 2026 (the eight English and Traditional Chinese ZIP archives, excluding the four Simplified Chinese archives; SHA-256 checksums available on request).</p>
+<h2 style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; margin: 20px 0 8px 0;">Priority 1 — Bilingual boundary discrepancy (1 item)</h2>
+<table style="border-collapse: collapse; width: 100%; font-size: 14px;">
+<thead>
+<tr>
+<th style="border: 1px solid #666666; padding: 6px 8px; text-align: left; background: #f0f0f0;">#</th>
+<th style="border: 1px solid #666666; padding: 6px 8px; text-align: left; background: #f0f0f0;">Provision</th>
+<th style="border: 1px solid #666666; padding: 6px 8px; text-align: left; background: #f0f0f0;">Issue</th>
+<th style="border: 1px solid #666666; padding: 6px 8px; text-align: left; background: #f0f0f0;">HKeL link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #666666; padding: 6px 8px; vertical-align: top;">1</td>
+<td style="border: 1px solid #666666; padding: 6px 8px; vertical-align: top;">Cap. 155L, s. 205(1)</td>
+<td style="border: 1px solid #666666; padding: 6px 8px; vertical-align: top;">English: &ldquo;not more than one year&rdquo; (≤ 1 year, inclusive of exactly one year). Traditional Chinese: 「不足一年」 (&lt; 1 year, exclusive of exactly one year). The two versions differ at the one-year endpoint, affecting receivables with an original maturity of exactly one year. As a substantive difference between the two language versions, this item may fall outside routine editorial correction of the website; it is respectfully left to the Department to consider referring it to the Law Drafting Division or to the relevant policy or regulatory authority (such as the Hong Kong Monetary Authority) for further consideration.</td>
+<td style="border: 1px solid #666666; padding: 6px 8px; vertical-align: top;"><a href="https://www.elegislation.gov.hk/hk/cap155L">https://www.elegislation.gov.hk/hk/cap155L</a></td>
+</tr>
+</tbody>
+</table>
+<h2 style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; margin: 20px 0 8px 0;">Priority 2 — Clear textual, numbering, and punctuation errata (14 items; full excerpts in attachment)</h2>
+<p>Each item below is raised for verification: I would be grateful if you could confirm whether the error lies in the original gazetted text or arose during digitisation or XML capture. For Cap. 514, Cap. 374E and Cap. 132AK below, the underlying XML metadata are also wrong, so correction must cover the metadata as well as the displayed text (see the CSV).</p>
+<p><strong>Textual typo (1 item).</strong></p>
+<ul>
+<li><strong>Cap. 369AD, Sch. 5, Pt. 1, para. 16(5)</strong> (EN): reads &ldquo;250 metres of more&rdquo; instead of &ldquo;250 metres or more&rdquo; (confirmed by the parallel <code>&lt; 250 metres</code> limb and Traditional Chinese 「250米或以上」; present since the original 30 June 1997 version). <a href="https://www.elegislation.gov.hk/hk/cap369AD">https://www.elegislation.gov.hk/hk/cap369AD</a></li>
+</ul>
+<p><strong>Numbering typos (5 items).</strong></p>
+<ul>
+<li><strong>Cap. 123I, s. 7A(1)(c)</strong> (TC): both subparagraphs display <code>(i)</code> instead of <code>(i), (ii)</code>. <a href="https://www.elegislation.gov.hk/hk/cap123I">https://www.elegislation.gov.hk/hk/cap123I</a></li>
+<li><strong>Cap. 514, s. 144A(2)(e)</strong> (TC): both subparagraphs display <code>(i)</code> instead of <code>(i), (ii)</code>. The underlying XML metadata are likewise wrong: the second subparagraph has <code>&lt;num value&gt;</code> &ldquo;1&rdquo;, name &ldquo;1&rdquo; and Temporal_ID <code>s144A_2_e_1</code>, duplicated from the first. <a href="https://www.elegislation.gov.hk/hk/cap514">https://www.elegislation.gov.hk/hk/cap514</a></li>
+<li><strong>Cap. 374E, s. 57(3)(a)</strong> (TC): subparagraphs display <code>(i), (ii), (ii)</code> instead of <code>(i), (ii), (iii)</code>. The underlying XML metadata are likewise wrong: the third subparagraph duplicates the second subparagraph&rsquo;s name (&ldquo;2&rdquo;) and Temporal_ID (<code>s57_2_a_2</code>), and the three (a) paragraphs in s. 57(2), s. 57(2A) and s. 57(3) share Temporal_ID <code>s57_2_a</code>. <a href="https://www.elegislation.gov.hk/hk/cap374E">https://www.elegislation.gov.hk/hk/cap374E</a></li>
+<li><strong>Cap. 132AK, s. 3(1) and s. 3(3)</strong> (TC): paragraphs display <code>(a), (a)</code> instead of <code>(a), (b)</code> in both subsections. The underlying XML metadata are likewise wrong in both subsections: in each place the second paragraph has <code>&lt;num value&gt;</code> &ldquo;a&rdquo;, name &ldquo;a&rdquo; and Temporal_ID <code>s3_1_a</code> (s. 3(1)) / <code>s3_3_a</code> (s. 3(3)), duplicated from the first. <a href="https://www.elegislation.gov.hk/hk/cap132AK">https://www.elegislation.gov.hk/hk/cap132AK</a></li>
+<li><strong>Cap. 511, s. 56(1)(l)</strong> (EN): displays <code>(1)</code> (digit one) between <code>(k)</code> and <code>(m)</code> instead of <code>(l)</code> (letter L). <a href="https://www.elegislation.gov.hk/hk/cap511">https://www.elegislation.gov.hk/hk/cap511</a></li>
+</ul>
+<p><strong>Unmistakable parenthesis / punctuation typos (8 items).</strong></p>
+<ul>
+<li><strong>Cap. 112, s. 17A(1)</strong> (EN): extra opening parenthesis in defined term — <code>((普通股權一級資本票據)</code>. <a href="https://www.elegislation.gov.hk/hk/cap112">https://www.elegislation.gov.hk/hk/cap112</a></li>
+<li><strong>Cap. 155S, s. 84(1)</strong> (TC): mismatched closing mark — <code>(第571章》</code> instead of <code>(第571章)</code>. <a href="https://www.elegislation.gov.hk/hk/cap155S">https://www.elegislation.gov.hk/hk/cap155S</a></li>
+<li><strong>Cap. 161, Sch. 6, Pt. 1, s. 1</strong> (TC): missing opening parenthesis — <code>《原有紀律處分規例》pre-amended Disciplinary Regulation)</code>. <a href="https://www.elegislation.gov.hk/hk/cap161">https://www.elegislation.gov.hk/hk/cap161</a></li>
+<li><strong>Cap. 4A, Order 69, r. 1</strong> (TC): extra closing parenthesis — <code>內地 (Mainland))</code>. <a href="https://www.elegislation.gov.hk/hk/cap4A">https://www.elegislation.gov.hk/hk/cap4A</a></li>
+<li><strong>Cap. 622, s. 114(3)</strong> (EN): missing opening parenthesis — <code>registered number註冊人數)</code>. <a href="https://www.elegislation.gov.hk/hk/cap622">https://www.elegislation.gov.hk/hk/cap622</a></li>
+<li><strong>Cap. 4A, Order 117A, r. 23 (heading)</strong> (EN): missing closing parenthesis — <code>section 6(1 (O. 117A, r. 23)</code>. <a href="https://www.elegislation.gov.hk/hk/cap4A">https://www.elegislation.gov.hk/hk/cap4A</a></li>
+<li><strong>Cap. 136, s. 70(2)</strong> (EN): extra closing parenthesis after amendment note — <code>(Amended L.N. 362 of 1997))</code>. The extra <code>)</code> sits in the <code>&lt;content&gt;</code> node after the amendment note, not in the note itself. <a href="https://www.elegislation.gov.hk/hk/cap136">https://www.elegislation.gov.hk/hk/cap136</a></li>
+<li><strong>Cap. 374, s. 131(1)(m)</strong> (EN): unmatched closing parenthesis — <code>the fees if any) payable</code> (missing opening <code>(</code> before <code>if</code>). <a href="https://www.elegislation.gov.hk/hk/cap374">https://www.elegislation.gov.hk/hk/cap374</a></li>
+</ul>
+<h2 style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; margin: 20px 0 8px 0;">Separate note — Bilingual drafting inconsistency in the Ordinance as enacted (1 item, not an HKeL transcription erratum)</h2>
+<ul>
+<li><strong>Cap. 571, Sch. 10, Pt. 1, s. 82(b)</strong> (TC): reads <code>(a)款</code> (&ldquo;subsection (a)&rdquo;) where the target is paragraph <code>(a)</code> and the English text reads &ldquo;paragraph (a)&rdquo;. This wording is present in the Ordinance as enacted (Ordinance No. 5 of 2002, gazetted text), not an HKeL transcription or digitisation error: the same Schedule, Pt. 1, s. 79(c) uses 「段」 for a comparable reference. Correction would therefore require legislative amendment, not editorial correction of HKeL; it is respectfully left to the Department to consider referring it to the Law Drafting Division. <a href="https://www.elegislation.gov.hk/hk/cap571">https://www.elegislation.gov.hk/hk/cap571</a></li>
+</ul>
+<p>I would be grateful if you could confirm receipt of this message.</p>
+<p>Yours faithfully,</p>
+<p>Zhou Hegong<br>
+hegongzhou@gmail.com</p>
+<p>Attachment:<br>
+&bull; <code>HKeL_Verified_Errata_16_Final_2026-11-26.csv</code> — 16 items in total (15 verified HKeL textual, numbering, and punctuation errata, plus one separate bilingual drafting inconsistency in the Ordinance as enacted), with bilingual excerpts and XML <code>Temporal_ID</code> locations (UTF-8 with BOM, CRLF line endings). The HKeL links above point to the chapter pages; the CSV&rsquo;s <code>Provision_Ref</code> and <code>Temporal_ID</code> identify the exact provision within each chapter.</p>
+<!-- End of email body -->
+</body>
+</html>

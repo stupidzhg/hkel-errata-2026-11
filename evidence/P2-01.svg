@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="680" viewBox="0 0 1160 680" font-family="'Noto Sans CJK HK','Noto Sans CJK TC','Noto Sans CJK SC',sans-serif">
+<rect width="1160" height="680" fill="white"/>
+<text x="56" y="84" font-size="32" font-weight="bold" fill="#1a1a1a">P2-01 · Cap. 369AD, Sch. 5, Pt. 1, para. 16(5)</text>
+<text x="56" y="121" font-size="19" fill="#555555">Textual typo (EN) · EN · Temporal_ID: sch5_P1_s16_5</text>
+<line x1="56" y1="134" x2="1104" y2="134" stroke="#bbbbbb" stroke-width="2"/>
+<text x="56" y="178" font-size="20" font-weight="bold" fill="#555555">Current text</text>
+<text x="56.0" y="210" font-size="23" fill="#1a1a1a">(5) The minimum bow height for a ship shall be derived from formula 1 in the case of a ship of less</text>
+<text x="56.0" y="246" font-size="23" fill="#1a1a1a">than 250 metres in length (L) and from formula 2 in the case of a ship of </text>
+<rect x="818.8" y="228" width="221.2" height="28" fill="#fbe9e7"/>
+<text x="819.8" y="246" font-size="23" fill="#b22222" font-weight="bold">250 metres of more</text>
+<text x="1039.0" y="246" font-size="23" fill="#1a1a1a"> in</text>
+<text x="56.0" y="282" font-size="23" fill="#1a1a1a">length (L)— [...]</text>
+<text x="56" y="342" font-size="20" font-weight="bold" fill="#555555">Counterpart — Traditional Chinese</text>
+<text x="56.0" y="374" font-size="23" fill="#1a1a1a">(5)如屬長度(L)小於250米的船舶，則其最小船首高度須透過公式1求得，如屬長度(L)</text>
+<text x="56.0" y="410" font-size="23" fill="#1a1a1a">為</text>
+<rect x="78.0" y="392" width="134.7" height="28" fill="#e6f4ea"/>
+<text x="79.0" y="410" font-size="23" fill="#137333" font-weight="bold">250米或以上</text>
+<text x="211.7" y="410" font-size="23" fill="#1a1a1a">的船舶，則須透過公式2求得 —— [...]</text>
+<text x="56" y="470" font-size="20" font-weight="bold" fill="#555555">Suggested correction</text>
+<text x="56.0" y="502" font-size="23" fill="#14532d">Replace “250 metres of more” with “250 metres or more”.</text>
+<line x1="56" y1="540" x2="1104" y2="540" stroke="#bbbbbb" stroke-width="1"/>
+<text x="56" y="566" font-size="16" fill="#777777">Source: DATA.GOV.HK dataset hk-doj-hkel-legislation-current (last modified 24 Nov 2026),</text>
+<text x="56" y="590" font-size="16" fill="#777777">downloaded 25 Nov 2026. Rendered verbatim from the official XML (Temporal_ID sch5_P1_s16_5)</text>
+<text x="56" y="614" font-size="16" fill="#777777">. HKeL is updated continuously; the live text may since have changed. Also confirmed on live</text>
+<text x="56" y="638" font-size="16" fill="#777777">HKeL (checked 26 Nov 2026; Cap. 369AD Point in Time 01/01/2024).</text>
+</svg>
